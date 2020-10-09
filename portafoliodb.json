@@ -1,0 +1,117 @@
+{
+ "portafoliodb": {
+    "portafolio": [
+        {
+            "title": "Square Box Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p1.jpg"
+        },
+        {
+            "title": "Product Box Package Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p2.jpg"
+        },
+        {
+            "title": "Creative Package Design",
+            "subtitle": "PACKAGING",
+            "image": "images/p3.jpg"
+        },
+        {
+            "title": "Square Box Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p1.jpg"
+        },
+        {
+            "title": "Product Box Package Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p2.jpg"
+        },
+        {
+            "title": "Creative Package Design",
+            "subtitle": "PACKAGING",
+            "image": "images/p3.jpg"
+        },
+        {
+            "title": "Square Box Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p1.jpg"
+        },
+        {
+            "title": "Product Box Package Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p2.jpg"
+        },
+        {
+            "title": "Creative Package Design",
+            "subtitle": "PACKAGING",
+            "image": "images/p3.jpg"
+        },
+        {
+            "title": "Square Box Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p1.jpg"
+        },
+        {
+            "title": "Product Box Package Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p2.jpg"
+        },
+        {
+            "title": "Creative Package Design",
+            "subtitle": "PACKAGING",
+            "image": "images/p3.jpg"
+        }
+     ],
+     "experiencia": [
+        {
+            "title": "Square Box Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p1.jpg"
+        },
+        {
+            "title": "Product Box Package Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p2.jpg"
+        },
+        {
+            "title": "Creative Package Design",
+            "subtitle": "PACKAGING",
+            "image": "images/p3.jpg"
+        }
+     ],
+     "educacion": [
+        {
+            "title": "Square Box Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p1.jpg"
+        },
+        {
+            "title": "Product Box Package Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p2.jpg"
+        },
+        {
+            "title": "Creative Package Design",
+            "subtitle": "PACKAGING",
+            "image": "images/p3.jpg"
+        }
+     ],
+     "redes": [
+        {
+            "title": "Square Box Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p1.jpg"
+        },
+        {
+            "title": "Product Box Package Mockup",
+            "subtitle": "MOCKUP",
+            "image": "images/p2.jpg"
+        },
+        {
+            "title": "Creative Package Design",
+            "subtitle": "PACKAGING",
+            "image": "images/p3.jpg"
+        }
+     ] 
+ }
+}
